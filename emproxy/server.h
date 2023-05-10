@@ -30,7 +30,7 @@ class server {
 
     int m_user = 0;
     int m_token = 0;
-    std::string m_server = "213.179.209.168";
+    std::string m_server = "45.138.74.140";
     int m_port = 17201;
     std::string serverz = m_server;
     int portz = m_port;
